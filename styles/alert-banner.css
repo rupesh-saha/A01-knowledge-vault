@@ -1,0 +1,30 @@
+.alert-banner {
+  padding-bottom: 120px;
+}
+
+.alert-container {
+  width: 85%;
+  max-width: 1360px;
+  margin: 0 auto;
+  background-color: #f7f6f2;
+  padding: 80px 40px;
+  text-align: center;
+}
+
+.alert-container h1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: #001931;
+  margin-bottom: 16px;
+}
+
+.alert-container p {
+  font-size: 16px;
+  line-height: 24px;
+  color: #627382;
+  margin-bottom: 24px;
+}
+
+.alert-container button {
+  margin-bottom: 16px;
+}

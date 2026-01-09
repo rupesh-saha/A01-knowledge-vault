@@ -1,0 +1,39 @@
+footer {
+  background-color: #001931;
+  padding-top: 120px;
+}
+
+.footer-content {
+  width: 85%;
+  max-width: 1360px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 80px;
+}
+
+#words {
+  color: aliceblue;
+  font-size: 20px;
+  font-weight: 400;
+  padding-bottom: 16px;
+}
+
+.logo-social img {
+  margin-right: 16px;
+}
+
+#words2 {
+  color: #FAFAFA;
+  font-size: 16px;
+  text-align: center;
+  margin-top: 30px;
+  padding-bottom: 30px;
+}
+
+hr {
+  width: 85%;
+  max-width: 1360px;
+  margin: 0 auto;
+  background-color: #627382;
+}
